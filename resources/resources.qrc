@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="cat">cat.gif</file>
+        <file alias="duck">duck.gif</file>
+    </qresource>
+</RCC>
